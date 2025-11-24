@@ -30,6 +30,17 @@ This project is an attempt to discover my drivers of well-being while exploring 
 - **Over-indexing on one specific user behaviour to predict the outcome may not give useful insights**.  It’s very important to track quantifiable loyalty behaviors (repeat purchase, interaction with new campaigns) instead of just revenue brought in by a consumer.
 - A user may not show immediate satisfaction or loyalty after signing up or trying a product once. But **repeated exposure or use can create stickiness**.
 
+## Author & Contact: 
+Kunika Verma
+
+Aspiring Business Intelligence and Data Analyst
+
+📧 Email: vermakunika01@gmail.com
+
+🔗 [LinkedIn](https://www.linkedin.com/in/kunikaverma/)
+  
+
+
 
 
 
